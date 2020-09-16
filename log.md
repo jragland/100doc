@@ -11,3 +11,18 @@
 **Link(s) to work**: 
     - [Testing World](https://github.com/jragland/TestingWorld)
     - [100 Days of Code](https://github.com/jragland/100doc)
+
+
+### Day 1: September 15, 2020
+
+**Today's Progress**:  Started today with changing the default branches in both of my new repos to 'main' instead of using 'master'. Next, I gave some thought to the 'todo' app that I got yesterday. 
+ 
+**Link(s) to research**: [Todo List](https://github.com/cassidoo/todometer)
+
+**Thoughts**: The conversation around the topic of 'master' is something that I am still working through. However, I feel its a good practice to get away from the 'master'/'slave' terminologies in techology as there have always been better ways to describe the functions those terms were used for. I went into github and also set the default for my account to use as 'main'. Off to start my day, will work on this more later today.
+
+I am not sure how I am going to use the todo list jsut yet. I am thinking of just running it via a random, one-off, docker host ec2 instance. I guess ill get that going and see if its a viable solution for a to-do app.
+
+**Link(s) to work**: 
+    - [Testing World](https://github.com/jragland/TestingWorld)
+    - [100 Days of Code](https://github.com/jragland/100doc)
