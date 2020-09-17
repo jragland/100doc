@@ -26,3 +26,15 @@ I am not sure how I am going to use the todo list jsut yet. I am thinking of jus
 **Link(s) to work**: 
     - [Testing World](https://github.com/jragland/TestingWorld)
     - [100 Days of Code](https://github.com/jragland/100doc)
+
+
+
+### Day 2: September 16, 2020
+
+**Today's Progress**: Spent some time working on my docker container. I work with containes daily, but having to build them is something new to me. Most of today has been just getting my Dockerfile to do what I want/need. Feeling slightly more comfortable with the docker CLI, just need to memorize the commands better
+
+**Thoughts**: Docker versus Containerd is something I keep thinking about. Not sure if there is really a point to differentiate between the two, but with all the things happening with Docker over the last year, I cant help but wonder if Containerd is the better technology to work with. 
+
+**Link(s) to work**: 
+    - [Testing World](https://github.com/jragland/TestingWorld)
+    - [100 Days of Code](https://github.com/jragland/100doc)
