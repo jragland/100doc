@@ -47,3 +47,13 @@ I am not sure how I am going to use the todo list jsut yet. I am thinking of jus
 **Link(s) to work**: 
     - [Testing World](https://github.com/jragland/TestingWorld)
     - [100 Days of Code](https://github.com/jragland/100doc)
+
+### Day 4: September 18, 2020
+
+**Today's Progress**: Spent some time reading about node and some of the intricacies of using node with containers. I am still debating on what I want to do with this project and am not sure. 
+
+**Thoughts**: I am hopeful that I can spend some time tomorrow documenting a more well-rounded plan to this project. This week has been a bit crazy with work and I havent gotten as much operational on this as I would like
+
+**Link(s) to work**:
+    - [Testing World](https://github.com/jragland/TestingWorld)
+    - [100 Days of Code](https://github.com/jragland/100doc)
