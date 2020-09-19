@@ -57,3 +57,15 @@ I am not sure how I am going to use the todo list jsut yet. I am thinking of jus
 **Link(s) to work**:
     - [Testing World](https://github.com/jragland/TestingWorld)
     - [100 Days of Code](https://github.com/jragland/100doc)
+
+### Day 5: September 19, 2020
+
+**Today's Progress**: Started on a node tutorial with FreeCodeCamp, but ran into issues with getting my repo to validate correctly. So... I started messing around with various things I could find. I copied down a working version of the `package.json` file that is referenced in the tutorial and then tried to get it to pass validation. It wouldnt pass validation, but I got the errors I was seeing to clear in VS Code, so who knows. Im probably just missing something in my configuration wtih FCC. I submitted the `package.json` file to github and then pointed Snyk at it as ive been wanting to use that service for a while. Everything came back clean so I added a badge to my `README.md` for the `TestingWorld` repo and pushed it up. 
+
+**Link(s) to tutorial**: [FreeCodeCamp - NPM](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/how-to-use-package-json-the-core-of-any-node-js-project-or-npm-package)
+
+**Thoughts**: While I may not have got the FCC challenge to validate correctly, I am proud of myself for just going out and grabbing bits and pieces and shoving it together to make something. I feel this approach works better for me and allows me to freely explore. 
+
+**Link(s) to work**:
+    - [Testing World](https://github.com/jragland/TestingWorld)
+    - [100 Days of Code](https://github.com/jragland/100doc)
