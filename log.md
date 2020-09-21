@@ -69,3 +69,13 @@ I am not sure how I am going to use the todo list jsut yet. I am thinking of jus
 **Link(s) to work**:
     - [Testing World](https://github.com/jragland/TestingWorld)
     - [100 Days of Code](https://github.com/jragland/100doc)
+
+### Day 6: September 20, 2020
+
+**Today's Progress**: I didnt get as much done today as I wanted. I basically played with Docker on my local system and was trying to get myself more familiar with the comamnds 
+
+**Thoughts**: No thoughts to add - today was mostly a recovery day
+
+**Link(s) to work**:
+    - [Testing World](https://github.com/jragland/TestingWorld)
+    - [100 Days of Code](https://github.com/jragland/100doc)
