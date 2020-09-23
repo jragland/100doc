@@ -94,9 +94,11 @@ I am not sure how I am going to use the todo list jsut yet. I am thinking of jus
 
 **Today's Progress**: I decided to work on some training modules on A Cloud Guru. Specifically, I am working through the training course for the AWS Cloud Practioner that ACG offers. 
 
-I worked on setting up EC2 instances and SSH'ing into them to setup a simple apache webserver OR setting up EC2 instances to load with ~~run~~ bootstrap scripts and have the apache webserver setup automatically. Once that was up and operational, we worked through setting up an application load balancer and making a target pool of the two servers. once that was done, we practiced turning off one server to see the ALB respond.
+I worked on setting up an EC2 instance and SSH'ing into it to setup a simple apache webserver. I then setup an EC2 instance  ~~to load with run~~ that was set to load a bootstrap script that would install an apache webserver setup automatically with a simple html page. Once that was up and operational, we worked through setting up an application load balancer and making a target pool of the two servers. once that was done, we practiced turning off one server to see the ALB respond and load traffic from the remaining operational webserver. 
 
-**Thoughts**: As ive stated before, I work with this stuff daily but it escapes me at times how easy it is to setup a fault tolerant system that is fully cloud-native.  d
+Next, we started to review databases and how they are represented in AWS. The lab consist of building an RDS mysql instance spread across multiple AZ's. Going to let that finish building and then finish the lab either later tonight or tomorrow. 
+
+**Thoughts**: As ive stated before, I work with this stuff daily but it escapes me at times how easy it is to setup a fault tolerant system that is fully cloud-native. I have long been a fan of A Cloud Guru, but to see how they setup these classes its really cool to see that someone who has NEVER touched this stuff can walk through doing exactly what I just did. I cant imagine how exciting that must be for someone who hasnt dealt with technology their whole life. 
 
 **Link(s) to work**:
     - [Testing World](https://github.com/jragland/TestingWorld)
