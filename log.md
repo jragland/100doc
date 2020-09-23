@@ -89,3 +89,15 @@ I am not sure how I am going to use the todo list jsut yet. I am thinking of jus
 **Link(s) to work**:
     - [Testing World](https://github.com/jragland/TestingWorld)
     - [100 Days of Code](https://github.com/jragland/100doc)
+
+### Day 8: September 22, 2020
+
+**Today's Progress**: I decided to work on some training modules on A Cloud Guru. Specifically, I am working through the training course for the AWS Cloud Practioner that ACG offers. 
+
+I worked on setting up EC2 instances and SSH'ing into them to setup a simple apache webserver OR setting up EC2 instances to load with run scripts and have the apache webserver setup automatically. Once that was up and operational, we worked through setting up an application load balancer and making a target pool of the two servers. once that was done, we practice turning off one server to see the ALB respond
+
+**Thoughts**: As ive stated before, I work with this stuff daily but it escapes me at times how easy it is to setup a fault tolerant system that is fully cloud-native.  
+
+**Link(s) to work**:
+    - [Testing World](https://github.com/jragland/TestingWorld)
+    - [100 Days of Code](https://github.com/jragland/100doc)
