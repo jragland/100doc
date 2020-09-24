@@ -103,3 +103,13 @@ Next, we started to review databases and how they are represented in AWS. The la
 **Link(s) to work**:
     - [Testing World](https://github.com/jragland/TestingWorld)
     - [100 Days of Code](https://github.com/jragland/100doc)
+
+### Day 9: September 23, 2020
+
+**Today's Progress**: Spent some time this morning checking on the RDS instance that I built out last night in AWS. That was up and operational so I can now proceed with the ACG course. Beyond that, I did setup an integration between Snyk and my Slack instance so I can dump notifications into one location.  
+
+**Thoughts**: Looking forward to continuing with my course, but dont have the energy in me today. Spending time trying to bike more and my ride tonight was rough. Hoping I can get some stuff done in the AM before I start my work day
+
+**Link(s) to work**:
+    - [Testing World](https://github.com/jragland/TestingWorld)
+    - [100 Days of Code](https://github.com/jragland/100doc)
