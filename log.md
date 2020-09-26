@@ -114,12 +114,11 @@ Next, we started to review databases and how they are represented in AWS. The la
     - [Testing World](https://github.com/jragland/TestingWorld)
     - [100 Days of Code](https://github.com/jragland/100doc)
 
+### Day 10: September 25, 2020
 
-### Day 9: September 23, 2020
+**Today's Progress**: I didnt log into or do anything.... Sorry. Work was the primary focus today.   
 
-**Today's Progress**: Got back to my ACG class this evening. I went in and got my RDS instance tied into an EC2 isntance running wordpress. Once that was done, I got WP configured and then published a test post.   
-
-**Thoughts**: The pace at which the RDS/Wordpress class went was VERY quick. I realize that for what this course is covering, you dont need to know how todo all of this, but DAMN! Ryan K. was moving incredibly fast through that one - had to go back in the video a few times. All in all, very happy I got this working. Its using RDS, an ALB, and an EC2 instance. 
+**Thoughts**: Spent all day documenting various systems at work and then having to setup some tracing for some lambdas we use. I did notice while I was setting up this entry that my dates and days seem to be off. I will need to look at that tomorrow and see what happened... probably a copy/pasta error last week.  
 
 **Link(s) to work**:
     - [Testing World](https://github.com/jragland/TestingWorld)
