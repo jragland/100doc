@@ -168,3 +168,14 @@ Next, we started to review databases and how they are represented in AWS. The la
     - [Testing World](https://github.com/jragland/TestingWorld)
     - [100 Days of Code](https://github.com/jragland/100doc)
     - [ACG Practice Blog](http://myalb-1003511962.us-east-1.elb.amazonaws.com/)
+
+### Day 15: September 30, 2020
+
+**Today's Progress**: Feeling better today, but didnt have much time to work on stuff.        
+
+**Thoughts**: Debating on making a simple blog to start piping these posts through and highlight my efforts. Was thinking about that tonight on my walk. Seems like something that should be easy enough to do. 
+
+**Link(s) to work**:
+    - [Testing World](https://github.com/jragland/TestingWorld)
+    - [100 Days of Code](https://github.com/jragland/100doc)
+    - [ACG Practice Blog](http://myalb-1003511962.us-east-1.elb.amazonaws.com/)
