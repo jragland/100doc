@@ -190,3 +190,14 @@ Next, we started to review databases and how they are represented in AWS. The la
     - [Testing World](https://github.com/jragland/TestingWorld)
     - [100 Days of Code](https://github.com/jragland/100doc)
     - [ACG Practice Blog](http://myalb-1003511962.us-east-1.elb.amazonaws.com/)
+
+### Day 17: October 02, 2020
+
+**Today's Progress**: Im cheating today - using my work as my credit for today! I spent the majority of today working with a coworker to get a new system he built opertional. Ideally this should be as easy as "here is the docker info and environment variables you need".... but....          
+
+**Thoughts**: Learned a good bit about docker, artifactory, the elixir language, and getting them to all work together. Elixir is one of those languages that my coworker really enjoys, but he warned me up front that it was kind of fringe. Seems like a powerful enough language, just has its own issues and catches to learn. All in all, it was a good day. We found a dependency issue that were not sure how to fix, but we will get it. 
+
+**Link(s) to work**:
+    - [Testing World](https://github.com/jragland/TestingWorld)
+    - [100 Days of Code](https://github.com/jragland/100doc)
+    - [ACG Practice Blog](http://myalb-1003511962.us-east-1.elb.amazonaws.com/)
