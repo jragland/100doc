@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Logd
 
 ### Day 0: September 14, 2020
 
@@ -212,3 +212,16 @@ Next, we started to review databases and how they are represented in AWS. The la
     - [Testing World](https://github.com/jragland/TestingWorld)
     - [100 Days of Code](https://github.com/jragland/100doc)
     - [ACG Practice Blog](http://myalb-1003511962.us-east-1.elb.amazonaws.com/)
+
+### Day 19: November 15, 2020
+
+**Today's Progress**: I ran through a series of updates on my system and the environments ive built for myself. I have played with CircleCi a bit from my last update. Its doing things, but im not 100% on what it's actually doing. 
+
+**Thoughts**: I have been very busy with work both in a learning/growing sense, but also a "Oh, shit... we need to keep the ship floating..." sense. I am hopeful to be back to this all soon, but for the mean time.. the 100doc is kind of on pause.. 
+
+**Link(s) to work**:
+    - [Testing World](https://github.com/jragland/TestingWorld)
+    - [100 Days of Code](https://github.com/jragland/100doc)
+    - [ACG Practice Blog](http://myalb-1003511962.us-east-1.elb.amazonaws.com/)
+
+
